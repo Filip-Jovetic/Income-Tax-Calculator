@@ -1,9 +1,9 @@
 # Income-Tax-Calculator
 
 # The task:
-To build an input form/calculator for checking gross and net income. Imagine you need to provide information to users about their clients income, before and after tax. One screen can be used for data entry and the second screen a table with results. You don't need to worry about using an exact tax % figure, you can choose how much tax goes for net income calculation.
+To build an input form/calculator for checking gross and net income. Imagine you need to provide information to users about their clients income, before and after tax. One screen can be used for data entry and the second screen a table with results.
 
-To create a minimal SPA from scratch, using specified frameworks. Using core frameworks for just essential definitions/resets should be fine, but the idea is to see if the candidate can work with UI controls, customise the styles, follow the predefined guidelines and use the defined frameworks.
+To create a minimal SPA from scratch, using specified frameworks. Using core frameworks for just essential definitions/resets should be fine, but the idea is to app can work with UI controls, customise the styles, follow the predefined guidelines and use the defined frameworks.
 
 # Install Node and intialize an npm directory.
 
